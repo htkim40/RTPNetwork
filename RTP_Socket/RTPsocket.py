@@ -5,7 +5,7 @@ class RTPSocket:
 
     def __init__(self, ipaddress, port):
 
-        self._ip_addr = ipaddress
+        self._address = ipaddress
         self._port = port
         try:
             self._soc = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
