@@ -36,22 +36,15 @@ class RTPSocket:
         except socket.error as err:
             print("Socket error: ", str(err))
 
+    #@Hong Kim or Aaron Allar. to do: Define SendFrame Method
     def SendFrame(self):
 
         pass
 
+    #@Hong Kim or Aaron Allar. to do: Define SendFrame Method
     def RecvFrame(self):
 
         pass
 
     def Close(self):
         self._soc.close()
-
-
-print "Creating socket"
-myclient = RTPSocket('192.168.7.1',5000)
-print "Connecting"
-myclient.Connect('192.176.12.3',4000)
-print "Closing socket"
-myclient.Close()
-
