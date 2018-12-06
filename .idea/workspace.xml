@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="449bbdad-7d81-447f-aa99-2a4d986f4ec9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RTP_Client/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RTP_Socket/RTPsocket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RTP_Client/client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RTP_Server/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RTP_Socket/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RTP_Server/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RTP_Socket/RTPsocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/RTP_Socket/RTPsocket.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RTP_Socket/RTPsocket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="-1">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -116,7 +113,7 @@
     <frame x="0" y="25" width="1366" height="678" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2226359" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2226359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -127,7 +124,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32849365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -174,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RTP_Socket/RTPsocket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="-1">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
         </state>
       </provider>
     </entry>
